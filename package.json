@@ -1,0 +1,10 @@
+{
+	"name": "@jagamypriera/smoldb",
+	"version": "1.0.4",
+	"main": "index.js",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jagamypriera/smoldb.git"
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@jagamypriera/smoldb": "^1.0.0"
+  }
+}
